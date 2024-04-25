@@ -1,0 +1,17 @@
+{
+  "name": "virtuallaboratory",
+  "version": "1.0.0",
+  "description": "The .scss (Sass) files are only available in the pro version.\r You can buy it from: https://bootstrapmade.com/free-bootstrap-template-corporate-moderna/",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "express": "^4.19.2",
+    "mongoose": "^8.3.2"
+  }
+}
